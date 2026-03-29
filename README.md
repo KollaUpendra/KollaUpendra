@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4F8EF7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=KollaUpendra&color=4F8EF7&style=flat-square&label=Profile+Views)
 
 *"Stay hungry, stay foolish"* — Steve Jobs
 
