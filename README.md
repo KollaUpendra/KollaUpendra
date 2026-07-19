@@ -4,8 +4,6 @@
 
 ### Full Stack Developer · AI & ML Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+applications;Exploring+ML+%26+AI+solutions;)](https://git.io/typing-svg)
-
 </div>
 
 ---
